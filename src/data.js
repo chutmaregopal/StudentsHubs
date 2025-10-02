@@ -64,7 +64,7 @@ export const navData = [
     'Top Trending','Most Popular',  'POV', 'Big Tits', 'Step Fantasy', 'Hardcore', 'Romantic', 'Roleplay', 'Rough Sex', 'Pussy Licking'
   ] } },
   { title: 'PORNSTARS', dropdown: true, content: { type: 'grid', links: [
-'Sunny Leone','Tori Black','Asa Akira','Mia Khalifa','Mia Malkova','Lana Rhoades','jhonny Sins','Brandi Love','Nicolette Shea',
+'Sunny Leone','Tori Black','Asa Akira','Mia Khalifa','Mia Malkova','Lana Rhoades','jhonny Sins','Brandi Love','Nicolette Shea', 
 'Dani Daniels','Kendra Lust','Nicole Aniston','Angela White','Eva Elfie','Abella Danger','Riley Reid','Lisa Ann',
   ] } },
   { title: 'LIVE CAMS', dropdown: false },

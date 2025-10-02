@@ -5,11 +5,12 @@ import { FaThumbsUp, FaFire, FaStar, FaList, FaAngleDown, FaAngleUp } from 'reac
 const icons = { FaThumbsUp, FaFire, FaStar, FaList };
 
 const Sidebar = () => {
-  const [openSection, setOpenSection] = useState('Pornstars & Models');
+  const [openSection, setOpenSection] = useState(null);
 
   const toggleSection = (title) => {
     setOpenSection(openSection === title ? null : title);
   };
+  
 
   return (
     <aside className="w-64 bg-transparent text-white p-4 flex-shrink-0">

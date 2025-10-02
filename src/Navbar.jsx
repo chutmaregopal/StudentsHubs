@@ -42,7 +42,7 @@ const MegaMenu = ({ columns }) => {
 const SimpleDropdown = ({ content }) => {
     if (content.type === 'grid') {
         return (
-            <div className="absolute top-full left-0 bg-[#1f1f1f] border border-gray-700 p-4 rounded-b-lg shadow-lg w-96 z-30"> {/* z-index badhaya */}
+           <div className="absolute top-full left-0 bg-[#1f1f1f] border border-gray-700 p-4 rounded-b-lg shadow-lg w-96 z-50">
                 <div className="grid grid-cols-2 gap-4">
                     {content.links.map(link => <a key={link} href="#" className="text-gray-300 hover:text-orange-400">{link}</a>)}
                 </div>
