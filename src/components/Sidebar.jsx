@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { sidebarData } from './data.js';
+import { sidebarData } from '../data.js';
 import { FaThumbsUp, FaFire, FaStar, FaList, FaAngleDown, FaAngleUp } from 'react-icons/fa';
 
 const icons = { FaThumbsUp, FaFire, FaStar, FaList };

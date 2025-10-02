@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
-import ParticleBackground from "../ParticleBackground.jsx";
+import ParticleBackground from "../components/ParticleBackground.jsx";
 import AgeVerification from "../AgeVerification.jsx";
-import CookiePopup from "../CookiePopup.jsx";
-import Header from "../Header.jsx";
-import Navbar from "../Navbar.jsx";
-import Sidebar from "../Sidebar.jsx";
-import Footer from "../Footer.jsx";
+import CookiePopup from "../components/CookiePopup.jsx";
+import Header from "../components/Header.jsx";
+import Navbar from "../components/Navbar.jsx";
+import Sidebar from "../components/Sidebar.jsx";
+import Footer from "../components/Footer.jsx";
 import VideoThumbnail from "../components/VideoThumbnail.jsx";
 
 function Home() {

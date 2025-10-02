@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { navData } from './data.js';
+import { navData } from '../data.js';
 
 // MegaMenu Component (koi badlav nahi)
 const MegaMenu = ({ columns }) => {
